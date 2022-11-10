@@ -103,17 +103,9 @@
 			isa = PBXGroup;
 			children = (
 				F6027D8F28FD5CC00006C94A /* Data Store */,
-				F6027D8E28FD5C320006C94A /* Location Service */,
 				F647200928F9CD9B004B333B /* AF Network Layer */,
 			);
 			path = Service;
-			sourceTree = "<group>";
-		};
-		F6027D8E28FD5C320006C94A /* Location Service */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Location Service";
 			sourceTree = "<group>";
 		};
 		F6027D8F28FD5CC00006C94A /* Data Store */ = {
